@@ -1,7 +1,7 @@
 # "Hacking" Wordle
 
-The goal is to obtain the best solution in wordle, the metric that I'm going to use is the **Shannon entropy**.
-[URL](https://wordle.danielfrg.com/)
+The goal is to obtain the best solution in [wordle](https://wordle.danielfrg.com/), the metric that I'm going to use is the **Shannon entropy**.
+
 $$ S = \sum_{i} -p_{i} log_{2}\left ( p_{i} \right ) $$
 ## How Wordle works
 
